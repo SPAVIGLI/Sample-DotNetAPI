@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample-DotNetAPI", "Sample-DotNetAPI.csproj", "{184C4D29-27E4-4C39-928B-9367B8D7DEDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample-DotNetAPI.Tests", "..\Sample-DotNetAPI.Tests\Sample-DotNetAPI.Tests.csproj", "{34270A92-2882-4DC7-9063-4E1477E5FCCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{184C4D29-27E4-4C39-928B-9367B8D7DEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{184C4D29-27E4-4C39-928B-9367B8D7DEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{184C4D29-27E4-4C39-928B-9367B8D7DEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{184C4D29-27E4-4C39-928B-9367B8D7DEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34270A92-2882-4DC7-9063-4E1477E5FCCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34270A92-2882-4DC7-9063-4E1477E5FCCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34270A92-2882-4DC7-9063-4E1477E5FCCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34270A92-2882-4DC7-9063-4E1477E5FCCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73B653A1-79BA-4850-AFCF-5128F4640B1D}
+	EndGlobalSection
+EndGlobal
